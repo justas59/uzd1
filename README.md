@@ -8,4 +8,4 @@ Antroji v0.2 yra sukurta v0.2 branch
 Galutinė v1.0 yra sukurta v1.0 branch
 
 Kaip naudotis:
-paleisti main3.cpp programą
+Paleisti programą galima naudojantis ShellExecute API
